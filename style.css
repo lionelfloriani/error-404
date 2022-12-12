@@ -66,6 +66,7 @@ a {
     color: #347afd;
     font-size: 17px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .cta:hover {
